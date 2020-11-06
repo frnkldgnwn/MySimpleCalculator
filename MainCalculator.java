@@ -27,8 +27,6 @@ class Calculator {
 }
 
 public class MainCalculator {
-//    static double num = 0;
-
     public static void main(String[] args) {
         Calculator calculator = new Calculator();
         Scanner sc = new Scanner(System.in);
